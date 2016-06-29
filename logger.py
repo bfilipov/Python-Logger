@@ -19,8 +19,6 @@ while True:
 		print('We got a match be bace!')
 		f = open('skrillex.txt','a')
 		f.write(a[1]+a[2]+a[3]+'\n')
-			#print(a[1]+a[2]+a[3]+'\n', file=f)
-		#print(a[1]+a[2]+a[3]+'\n')
 		f.close()
 	   
 
