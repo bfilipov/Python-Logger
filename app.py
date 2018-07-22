@@ -17,7 +17,7 @@ while True:
 	if not(pattern.match(currSong[1]) == None):
 		print('We got a match!')
 		f = open('skrillex.txt','a')
-		f.write(currSong[1]+currSong[2]+currSong[3]+'\n')
+		f.write("{} - {}, Played at: {} \n".format(currSong[1],currSong[2],currSong[3]))
 		f.close()
 	   
 
