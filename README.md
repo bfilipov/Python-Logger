@@ -1,6 +1,4 @@
-# Project Title
-
-Python-Logger
+# Python-Logger
 
 Loggs the songs being played on "The Voice radio". Helps me win tickets for a concert :)
 
